@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.streamlit/secrets.toml
+test_export.xlsx
+.DS_Store
